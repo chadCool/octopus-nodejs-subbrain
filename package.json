@@ -1,0 +1,24 @@
+{
+  "name": "octopus-nodejs-subbrain",
+  "version": "0.0.1",
+  "description": "sub brain of octopus, a nodejs server to connect end and other subbrain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadCool/octopus-nodejs-subbrain.git"
+  },
+  "keywords": [
+    "subbrain",
+    "nodejs",
+    "octopus"
+  ],
+  "author": "Chad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadCool/octopus-nodejs-subbrain/issues"
+  },
+  "homepage": "https://github.com/chadCool/octopus-nodejs-subbrain#readme"
+}
